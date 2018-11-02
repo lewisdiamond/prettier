@@ -3,7 +3,7 @@
   "version": "2.3.0",
   "description": "Prettier is an opinionated code formatter",
   "bin": "./bin/prettier.js",
-  "repository": "btmills/prettier",
+  "repository": "lewisdiamond/prettier",
   "homepage": "https://prettier.io",
   "author": "James Long",
   "license": "MIT",
