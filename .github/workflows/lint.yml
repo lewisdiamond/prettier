@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - line-before-operator
       - patch-release
   pull_request:
 

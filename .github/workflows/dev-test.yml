@@ -3,7 +3,8 @@ name: Dev
 on:
   push:
     branches:
-      - main
+      - line-before-operator
+      - master
       - patch-release
   pull_request:
 
